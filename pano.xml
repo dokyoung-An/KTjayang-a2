@@ -158,7 +158,7 @@
     <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
       <label width="180" textcolor="0x000000" bordercolor="0x000000" height="20" border="1" borderradius="1" background="1" backgroundalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
-      <hotspot skinid="ht_node" tilt="-32.52" url="{node6}" id="Point02" title="거실" target="" description="" pan="-328.49"/>
+      <hotspot skinid="ht_node" tilt="-32.52" url="{node5}" id="Point02" title="주방" target="" description="" pan="-328.49"/>
       <hotspot skinid="ht_node" tilt="-17.81" url="{node7}" id="Point01" title="침실" target="" description="" pan="-178.79"/>
     </hotspots>
     <media/>
